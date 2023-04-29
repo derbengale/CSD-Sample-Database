@@ -1,0 +1,4 @@
+scikit-image
+definitive_screening_design
+scikit-image
+numpy
